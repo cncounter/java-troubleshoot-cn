@@ -2,7 +2,7 @@
 
 This appendix describes environment variables and system properties that can be useful for troubleshooting problems with the Java HotSpot VM.
 
-[Submit a Bug Report](https://github.com/cncounter/java-troubleshoot-cn/tree/master/17_Submit_a_Bug_Report/) contains information on collecting environment variables in [Environment Variables](https://github.com/cncounter/java-troubleshoot-cn/tree/master/17_Submit_a_Bug_Report/).
+[Submit a Bug Report](https://github.com/cncounter/java-troubleshoot-cn/tree/master/17_Submit_a_Bug_Report/) contains information on collecting environment variables in [Environment Variables](https://github.com/cncounter/java-troubleshoot-cn/tree/master/17_Submit_a_Bug_Report/17_03_Collect_Data_for_a_Bug_Report.md).
 
 This appendix contains the following sections:
 
