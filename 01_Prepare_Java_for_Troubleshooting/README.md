@@ -10,11 +10,11 @@ This chapter contains the following sections:
 
 分为以下三个部分:
 
-- [Set Up Java for Troubleshooting]()
+- [Set Up Java for Troubleshooting](01_01_Set_Up_Java_for_Troubleshooting.md)
 
-- [Enable Options/Flags for JVM Troubleshooting]()
+- [Enable Options/Flags for JVM Troubleshooting](01_02_Enable_OptionsFlags_for_JVM_Troubleshooting.md)
 
-- [Gather Relevant Data]()
+- [Gather Relevant Data](01_03_Gather_Relevant_Data.md)
 
 
 <https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/prepapp.html>
