@@ -4,11 +4,11 @@
 
 This section describes setting up the Java environment and command-line options to enable gathering relevant data for troubleshooting. Follow these steps to set up Java.
 
-本节描述设置Java环境和命令行选项来启用收集相关数据进行故障诊断。按照以下步骤设置Java。
+本节讲述如何设置Java环境,以及相应的命令行选项, 进行相关的数据采集, 以支持问题排查。 请按照以下步骤设置Java。
 
 1. Update the Java version: As a first step, use the latest Java version to avoid spending time on troubleshooting issues in Java that have been fixed. Often, a problem caused by a bug in the Java runtime is fixed in the latest update release. Working on the latest Java version helps avoid some known and common issues.
 
-1. 更新的Java版本:作为第一步,使用最新的Java版本,以避免在Java故障诊断问题上所花费的时间已经固定.通常,Java运行时的错误引起的问题是固定在最新的更新版本。在最新的Java版本有助于避免一些已知的和常见的问题。
+1. 升级JDK版本: 首先, 使用最新的JDK版本, 以免碰到那些已经修复的BUG. 通常来说, 在Java运行时中复现的BUG, 最新版的JDK中都已经修复了。这能避开已知/常见的问题。
 
 2. Set up the Java environment to debug: Consider the following scenarios while setting up a bigger Java application, starting an application with a launcher script, or running distributed Java on several machines.
 
